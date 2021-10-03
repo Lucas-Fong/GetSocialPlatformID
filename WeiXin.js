@@ -80,7 +80,7 @@
             "\",\"站点URL（用于检查）\":\"" + _WebSiteURL +
             "\"}}]}";
 
-        var copy = function(){
+        var copy = function(e){
             e.preventDefault();
             e.clipboardData.setData('text/plain',copy_content);
             //alert('复制成功');//弹出提示，太阻碍操作了
