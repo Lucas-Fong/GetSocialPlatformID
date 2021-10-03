@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         获取微信公众号名称 和 BIZ
 // @namespace    lucas_fong
-// @version      1.2
+// @version      1.3
 // @description  获取微信公众号名称 和 BIZ，一键复制，并保存到 VIKA 表中。VIKA 表中的 Token 需要替换成个人的。
 // @author       Lucas Fong
 // @match        https://mp.weixin.qq.com/s/*
